@@ -82,4 +82,4 @@ File `ports` berisi informasi mengenai port yang digunakan oleh server Apache da
 **Date**: Dec 14, 2022
 
 **Original Repository**:\
-[https://github.com/username/Tugas-web-server-sederhana](https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Dicoding/submission/Web%20server%20sederhana)
+[https://github.com/azkacrows/Tugas-web-server-sederhana](https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Dicoding/submission/Web%20server%20sederhana)
